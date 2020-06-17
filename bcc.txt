@@ -5,3 +5,4 @@ asf
 asf
 asf
 this line should come before rebasing
+this line should come before rebasetest-1
